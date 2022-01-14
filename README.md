@@ -2,11 +2,13 @@
 
 Class of 2023, CS student at **University of California, Irvine**
 
-<!--Undergraduate Researcher at UCI [Intelligent Dynamics Lab](https://indylab.org/)-->
+<!--Undergraduate Researcher at UCI [Intelligent Dynamics Lab](https://indylab.org/)
 
 :computer: Currrently working on:
 - Cancer detection in histology images at [AI@UCI](https://aiclub.ics.uci.edu/)
 - Simulation-to-real technique for autonomous navigation in small wheeled robots in the [DuckieTown](https://www.duckietown.org/) platform at [UCI Intelligent Dynamics Lab](https://indylab.org/)
+-->
+Currrently working on: Cancer diganosis in histology images at [AI@UCI](https://aiclub.ics.uci.edu/)
 
 📫 How to reach me:
 - [Email](mailto:yifeilkx@gmail.com)
