@@ -10,6 +10,8 @@ Class of 2023, CS student at **University of California, Irvine**
 -->
 Currrently working on: Cancer diganosis in histology images at [AI@UCI](https://aiclub.ics.uci.edu/)
 
+Interested in: reinforcement learning, computer vision, deep learning
+
 📫 How to reach me:
 - [Email](mailto:yifeilkx@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yifei-migo-liu/)
