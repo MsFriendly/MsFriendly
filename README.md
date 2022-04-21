@@ -8,7 +8,7 @@ Class of 2023, CS student at **University of California, Irvine**
 - Cancer detection in histology images at [AI@UCI](https://aiclub.ics.uci.edu/)
 - Simulation-to-real technique for autonomous navigation in small wheeled robots in the [DuckieTown](https://www.duckietown.org/) platform at [UCI Intelligent Dynamics Lab](https://indylab.org/)
 -->
-Interested in: reinforcement learning, deep learning, computer vision
+Interested in: reinforcement learning, deep learning, robotics
 
 📫 How to reach me:
 - [Email](mailto:yifeilkx@gmail.com)
