@@ -1,7 +1,5 @@
 ## Hi, I'm Yifei (Migo) Liu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Class of 2023, CS student at **University of California, Irvine**
-
 <!--Undergraduate Researcher at UCI [Intelligent Dynamics Lab](https://indylab.org/)
 
 :computer: Currrently working on:
