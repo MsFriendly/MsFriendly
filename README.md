@@ -1,4 +1,4 @@
-## Hi, I'm Yifei (Migo) Liu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi, I'm Yifei Migo Liu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!--Undergraduate Researcher at UCI [Intelligent Dynamics Lab](https://indylab.org/)
 
